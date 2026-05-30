@@ -1,0 +1,20 @@
+May 22 19:10:01 server1 sshd[1234]: Failed password for invalid user admin from 192.168.1.50 port 54321 ssh2
+May 22 19:10:05 server1 sshd[1235]: Failed password for root from 192.168.1.50 port 54322 ssh2
+May 22 19:10:10 server1 sshd[1236]: Accepted password for reddy from 192.168.1.10 port 60123 ssh2
+May 22 19:11:12 server1 sudo: reddy : TTY=pts/0 ; PWD=/home/reddy ; USER=root ; COMMAND=/bin/cat /etc/shadow
+May 22 19:12:20 webserver apache2[2211]: 192.168.1.100 - - "GET /login.php?id=' OR 1=1 -- HTTP/1.1" 500 1203
+May 22 19:12:35 webserver apache2[2212]: 192.168.1.101 - - "GET /index.php?q=<script>alert('xss')</script> HTTP/1.1" 200 532
+May 22 19:13:01 firewall kernel: DROP TCP 10.0.0.5:4444 -> 192.168.1.20:22
+May 22 19:13:20 server1 sshd[1240]: Failed password for invalid user test from 203.0.113.5 port 51234 ssh2
+May 22 19:14:11 server1 sshd[1241]: Failed password for invalid user guest from 203.0.113.5 port 51235 ssh2
+May 22 19:14:55 IDS snort[998]: [1:1000001:1] Possible Nmap Scan Detected from 192.168.1.200
+May 22 19:15:33 powershell[3211]: EncodedCommand detected: powershell -enc SQBuAHYAbwBrAGUALQBXAGUAYgBSAGUAcQB1AGUAcwB0AA==
+May 22 19:16:00 antivirus defender: Malware detected Trojan:Win32/Emotet in C:\Users\Public\payload.exe
+May 22 19:16:25 server1 sshd[1250]: Accepted password for admin from 10.10.10.5 port 60211 ssh2
+May 22 19:17:40 webserver apache2[2215]: 192.168.1.110 - - "POST /upload.php HTTP/1.1" 403 210
+May 22 19:18:02 firewall kernel: DROP UDP 172.16.0.10:53 -> 192.168.1.20:4444
+May 22 19:18:45 IDS suricata[777]: ET MALWARE Possible Meterpreter Reverse Shell
+May 22 19:19:15 server1 cron[4321]: CMD (/tmp/.x/cleanup.sh)
+May 22 19:20:01 server1 sshd[1260]: Failed password for root from 45.33.32.156 port 60111 ssh2
+May 22 19:20:22 webserver apache2[2218]: 203.0.113.20 - - "GET /admin HTTP/1.1" 401 721
+May 22 19:21:00 systemd[1]: Started Daily Cleanup Service.

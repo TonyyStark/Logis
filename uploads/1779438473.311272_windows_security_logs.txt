@@ -1,0 +1,10 @@
+2026-05-22 18:10:01 EventID=4625 Failed login attempt for user admin from 192.168.1.50
+2026-05-22 18:10:03 EventID=4625 Failed login attempt for user root from 192.168.1.50
+2026-05-22 18:10:08 EventID=4624 Successful login for user reddy from 192.168.1.20
+2026-05-22 18:10:15 EventID=4688 Process created: powershell.exe
+2026-05-22 18:10:20 EventID=4688 Process created: cmd.exe /c whoami
+2026-05-22 18:10:30 EventID=1102 Audit log was cleared
+2026-05-22 18:10:45 EventID=4720 New user account created: hacker
+2026-05-22 18:11:02 EventID=4625 Failed login attempt for user administrator from 203.0.113.10
+2026-05-22 18:11:20 EventID=4688 Encoded PowerShell command detected
+2026-05-22 18:11:45 EventID=7045 New service installed: malware_service
